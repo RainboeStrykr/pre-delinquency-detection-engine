@@ -2,6 +2,8 @@
 
 A financial risk assessment system built for Barclays Hack-o-Hire 2026 that identifies customers at risk of delinquency before they default on payments. The system analyzes transaction patterns, account balances, and spending behaviors to predict potential financial distress.
 
+**[Watch the demo](https://drive.google.com/file/d/1bOgeBC_13y27HGxIsx-Kxun4L-oJ0VEV/view?usp=drive_link)**
+
 ## Features
 
 - **Real-time Risk Monitoring**: Tracks customer financial health through daily account analysis
